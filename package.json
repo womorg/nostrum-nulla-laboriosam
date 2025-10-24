@@ -1,10 +1,10 @@
 {
   "name": "@womorg/nostrum-nulla-laboriosam",
-  "version": "15.32.352",
+  "version": "15.33.352",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/accusantium-commodi-officia": "^1.0.0",
